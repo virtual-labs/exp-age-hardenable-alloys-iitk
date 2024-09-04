@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Transmission electron microscope uses______ for imaging.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "X-rays",
+        "b": "Light waves",
+        "c": "Secondary electrons",
+        "d": "Electron beam and magnetic field"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,33 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The true sample thickness of TEM sample can be measured using______.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Energy dispersive spectroscopy",
+        "b": "X-ray diffraction",
+        "c": "Electron energy loss spectroscopy",
+        "d": "Electron probe micro analyzer"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which technique requires the sample to be thinned to less than 100 nm?",
+      "answers": {
+        "a": "Scanning Electron Microscopy (SEM)",
+        "b": "Atomic Force Microscopy (AFM)",
+        "c": "Transmission Electron Microscopy (TEM)",
+        "d": "X-ray Diffraction (XRD)"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
