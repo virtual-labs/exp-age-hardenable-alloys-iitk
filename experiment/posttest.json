@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Why TEM is preferred over SEM to measure size of plate-like precipitates in aluminium alloys.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "because TEM gives 3D images",
+        "b": "SEM does not provide 3D images",
+        "c": "because SEM uses transmitted electrons for imaging",
+        "d": "The spatial resolution of TEM is better than SEM"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the purpose of using the ImageJ software in the experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To correct the measured diameter of the precipitates",
+        "b": "To capture precipitate images",
+        "c": "To measure and analyse the size of the precipitates",
+        "d": "To prepare the sample for TEM analysis"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +33,23 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The true diameter of plate-like precipitates is corrected using which of the following factors?",
+      "answers": {
+        "a": "Sample hardness can be used for the true diameter because there is no direct mathematical relationship between the diameter of the precipitate and hardness.",
+        "b": "Sample thickness is used to measure the true diameter because TEM provides only a 2D projection, which does not represent the true size of the features. The thickness of the sample is critical in correcting the measured diameter to obtain the true size of the precipitates.",
+        "c": "The sample temperature can be used to correct the true diameter of the precipitates. While temperature might influence other properties of the material, it does not directly affect the measurement or calculation of the precipitate diameter in the context of this experiment.",
+        "d": "Sample energy is used for correcting the true diameter of precipitates. The energy, such as the incident energy in TEM, is related to the imaging process and electron interaction but does not directly factor into the mathematical correction for the true diameter of the precipitates."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
