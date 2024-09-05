@@ -1,7 +1,7 @@
 Electron microscopy is a powerful technique for measuring the precipitate size in age-hardenable aluminium alloys, which is crucial for tailoring the material's mechanical properties. The choice between scanning Electron Microscopy (SEM) and transmission electron microscopy (TEM) depends on the size of the precipitates. SEM is typically used when precipitate sizes are larger than 100 nm, while TEM is preferred for precipitates smaller than 100 nm. Preparing a sample for TEM requires thinning the material to less than 100 nm, which is a meticulous and delicate process. Initially, the sample is cut using a diamond cutter or other precision cutting tools, followed by careful grinding to reduce its thickness to approximately 100 nm. The sample is then punched into 3 mm diameter disks, which are further thinned using electro jet polishing. Once the sample is adequately thinned, TEM imaging is performed to capture detailed images of the precipitates. Similar to SEM analysis, image processing software is used to measure and analyse precipitate sizes, providing data on average size, distribution, and standard deviation.
 <br>
 
-####True diameter calculation of plate-like precipitates in Al-Cu-Li alloys:
+True diameter calculation of plate-like precipitates in Al-Cu-Li alloys:
 <br>
 
 <image src="images\Picture4.png"> 
