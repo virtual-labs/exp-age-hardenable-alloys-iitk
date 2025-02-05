@@ -7,8 +7,7 @@
 Example: Plate-like T1 (Al2CuLi) precipitate in Al-Cu-Li alloys as shown in figure 1.
 <br>
 
-<image src="images\Picture2.png">
-<br>
+<image src="images\Picture2.png"><br>
 
 Figure 1: (a) Plate-like T1 precipitate in Al-Cu-Li alloy. (b) Precipitates which were used to calculate the diameter of plate-like precipitates .
 <br>
