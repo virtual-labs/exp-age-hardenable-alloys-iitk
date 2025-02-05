@@ -1,1 +1,1 @@
-### Bharti, Purnima, et al. "A robust dislocation line tension model considering obstacle strength distribution for yield strength prediction of an Al–Cu–Li alloy." Materials Today Communications 38 (2024): 107852.
+Bharti, Purnima, et al. "A robust dislocation line tension model considering obstacle strength distribution for yield strength prediction of an Al–Cu–Li alloy." Materials Today Communications 38 (2024): 107852.
