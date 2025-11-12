@@ -108,7 +108,7 @@ $(function() {
     var avhandle = $("#avslider").find(".custom-handle");
     var mhandle = $("#mslider").find(".custom-handle");
 
- // vaccum slider
+ // Vacuum slider
     $("#vslider").slider({
         min: 0,
         max: 2,
@@ -199,7 +199,7 @@ $(function() {
         $("#avslider").slider("option", "disabled", false);
     });
 
-    // vaccum
+    // Vacuum
     $("#setvac").click(function() {
         type("Now set accelerating voltage");
         textToSpeech("Now set the accelerating voltage");
@@ -208,7 +208,7 @@ $(function() {
 
         $("#setav").prop("disabled", false);
         $("#avslider").slider("option", "disabled", false);
-        showToast("Vaccum set");
+        showToast("Vacuum set");
         $("#vacImg").animate({
             fontSize: 220
         }, {
