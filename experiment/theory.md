@@ -19,6 +19,7 @@ MFP is mean free path and can be estimated using equation (3).
 <image src="images\Picture6.png"> 
 <br>
 
-Here, F is a relativistic factor (0.51 at 300 KeV), E<sub>0</sub> (120 -300 KeV) corresponds to the incident energy, E<sub>m</sub>= 19.14 eV for Al alloys and β is the collection semi-angle (~15 mrad).
+Here, F is a relativistic factor (0.51 at 300 keV), E<sub>0</sub> (120 -300 keV) corresponds to the incident energy, E<sub>m</sub>= 19.14 eV for Al alloys and β is the collection semi-angle (~15 mrad).
 
 By applying the equation (1), (2) and (3) the true diameter of plate-like precipitate can be obtained. 
+
