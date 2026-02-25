@@ -9,12 +9,6 @@
         "c": "Secondary electrons",
         "d": "Electron beam and magnetic field"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -25,12 +19,6 @@
         "b": "X-ray diffraction",
         "c": "Electron energy loss spectroscopy",
         "d": "Electron probe micro analyzer"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -43,11 +31,38 @@
         "c": "Transmission Electron Microscopy (TEM)",
         "d": "X-ray Diffraction (XRD)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Why is TEM preferred over SEM for imaging nanoscale precipitates?",
+      "answers": {
+        "a": "TEM provides higher resolution due to electron transmission through the sample.",
+        "b": "SEM has a higher resolution than TEM.",
+        "c": "TEM cannot image nanoscale precipitates.",
+        "d": "SEM uses transmitted electrons, making it more suitable for nanoscale imaging."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which of the following is a major advantage of TEM over SEM for analysing precipitate morphology?",
+      "answers": {
+        "a": "TEM provides diffraction contrast, helping in phase identification.",
+        "b": "SEM can easily image atomic structures.",
+        "c": "TEM has a lower resolution than SEM.",
+        "d": "TEM can only be used for surface imaging."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the primary limitation of SEM when imaging nanoscale precipitates?",
+      "answers": {
+        "a": "SEM uses lower-energy electrons, reducing resolution.",
+        "b": "SEM requires ultra-thin samples for imaging.",
+        "c": "SEM detects secondary and backscattered electrons, which have limited spatial resolution.",
+        "d": "SEM cannot operate at high magnifications."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
