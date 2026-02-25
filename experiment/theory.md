@@ -35,6 +35,7 @@ The sample volume is volume of observed area under TEM, which can be written as 
 Use table format to calculate the data points for the plotting. For nn<sub>k</sub> starts with 1,2,3 if the data points don’t follow linear line, then starts with 2,3,4 and iterate the process.<br><br>
 
 Table 1: TEM foil thickness procedure using convergent beam electron diffraction pattern (refer Fig. 2).<br>
+
 | ∆θᵢ | Si (107 nm⁻¹) | nk | 1/nk² | Si²/nk² (10¹³ nm⁻²) |
 |----:|-------------:|---:|------:|-------------------:|
 | 6.67 | 1.02 | 4 | 0.0625 | 0.64 |
@@ -52,6 +53,7 @@ Example: Plate-like T1 (Al<sub>2</sub>CuLi) precipitate in Al-Cu-Li alloys as sh
 <b>Figure 2:</b> (a) Convergent beam electron diffraction pattern of Al-Cu-Li alloy. (b) The data points used for linear fitting corresponding to the Fig. 2(a). Thickness is equal to (1/intercept)<sup>0.5</sup>.<br>
 
 Table 2: Measured diameter of the marked red colour precipitates.<br>
+
 | S. No. | Measured diameter (nm) | Corrected diameter (nm) |
 |------:|------------------------:|------------------------:|
 | 1 | 98.68 | 106.1022 |
@@ -84,5 +86,6 @@ MFP is mean free path and can be estimated using equation (3).
 Here, F is a relativistic factor (0.51 at 300 keV), E<sub>0</sub> (120 -300 keV) corresponds to the incident energy, E<sub>m</sub>= 19.14 eV for Al alloys and β is the collection semi-angle (~15 mrad).
 
 By applying the equation (1), (2) and (3) the true diameter of plate-like precipitate can be obtained.  -->
+
 
 
