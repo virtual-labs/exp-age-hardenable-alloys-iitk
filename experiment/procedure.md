@@ -1,4 +1,20 @@
-1. Take TEM images
+<b>Step 1:</b> Switch on the machine to initiate the experiment.<br>
+
+<b>Step 2:</b> Place the sample holder in the designated position.<br>
+
+<b>Step 3:</b> Carefully place the sample on the sample holder.<br>
+
+<b>Step 4:</b> Insert the sample holder into the TEM chamber.<br>
+
+<b>Step 5:</b> Set the required vacuum level and click on the <i>Set</i> button.<br>
+
+<b>Step 6:</b> Set the accelerating voltage and click on the <i>Set</i> button.<br>
+
+<b>Step 7:</b> Adjust the magnification and click on the <i>Set</i> button.<br>
+
+<b>Step 8:</b> Click on the <i>Beam ON</i> button to observe the experiment.
+
+<!--1. Take TEM images
 2. Using ImageJ first set the scale bar
 3. Measure the length of precipitates using line measurement in ImageJ
 5. Assume sample thickness is of the order of 70 nm
@@ -13,7 +29,7 @@ Figure 1: (a) Plate-like T1 precipitate in Al-Cu-Li alloy. (b) Precipitates whic
 <br>
 
 <!-- <image src="images\Picture3.png"> -->
-#### Table 1: Measured diameter of the marked red colour precipitates.
+<!-- #### Table 1: Measured diameter of the marked red colour precipitates.
 
 | S. No. | Measured diameter (nm) | Corrected diameter (nm) |
 |--------|------------------------|-------------------------|
@@ -30,3 +46,4 @@ Figure 1: (a) Plate-like T1 precipitate in Al-Cu-Li alloy. (b) Precipitates whic
 | 11     | 54.60                  | 60.73                   |
 | 12     | 42.666                 | 46.68                   |
 -------------------------------------------------------------
+
