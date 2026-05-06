@@ -405,7 +405,7 @@ function setMagnigication() {
 
   $("#setmag").click(function () {
     showToast("Magnification set");
-
+    $("#insightBtn").prop("disabled", false);
     output();
   });
 };
@@ -443,7 +443,15 @@ function output() {
     textToSpeech("आउटपुट छवि स्क्रीन के दाईं ओर प्रदर्शित हो रही है।", "hi-IN");
   }
 
-  url = "../images/outputs/" + av + ac + mag + imode + ".png";
+  if (imode.includes("Bright Field")) {
+    url = "../Manoj/bright_field.png";
+  } else if (imode.includes("Dark Field")) {
+    url = "../Manoj/dark_field.png";
+  } else if (imode.includes("Diffraction")) {
+    url = "../Manoj/diffraction.jpg";
+  } else {
+    url = "../images/outputs/" + av + ac + mag + imode + ".png";
+  }
 
    $("#output").html(
      "<br><img id='image' class='fluid-container' src='" +
