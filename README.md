@@ -21,3 +21,5 @@ To correctly measure the precipitate size of the Al-Cu-Li alloys.
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Gaurav Singh | Student | Computer Science | BU Jhansi | gauravisingh1892000@gmail.com
+2 | Manoj | Student | MSE  |  IIT Kanpur | manojky21@iitk.ac.in
+3 | Khushboo Singh | MSE |  Employee |  IIT Kanpur | skhushboo@iitk.ac.in
