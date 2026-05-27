@@ -22,5 +22,5 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Gaurav Singh | Student | Computer Science | BU Jhansi | gauravisingh1892000@gmail.com
 2 | Manoj | Student | MSE  |  IIT Kanpur | manojky21@iitk.ac.in
-3 | Khushboo Singh | Employee | MSE  |  IIT Kanpur | skhushboo@iitk.ac.in
+3 | Khushboo Singh |  | MSE  |  IIT Kanpur | skhushboo@iitk.ac.in
 
